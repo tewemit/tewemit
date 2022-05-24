@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+  }
+  p h1,
+  h2 {
+    color: midnightblue;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .brief {
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: "Trebuchet MS";
+  }
+  
+  .box .flex-item {
+    margin: 0 10px;
+    border-radius: 15px;
+    color: #ffffff;
+  }
+  
+  .myimage {
+      display: inline-block;
+      white-space:nowrap;
+      text-align: center;
+  }
+
+span{
+    color:maroon;
+}
+
+.information{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.header{
+    color: maroon;
+    font-size: 25px;
+   
+}
+.page{
+    
+    font-size: 35px; 
+}
+#list{
+list-style: square;
+}
+.special{
+    font-style: italic;
+}
+.current{
+    font-size: large;
+    font-weight: bold;
+}
