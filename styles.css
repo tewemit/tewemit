@@ -24,15 +24,15 @@ body {
       display: inline-block;
       white-space:nowrap;
       text-align: center;
-      border-style: solid 1;
+      
   }
   .w-50 {
     min-width: 50%;
     max-width: 50%;
   }
   .icon {
-    width: "200px";
-    height: "200px";
+    width: "200";
+    height: "200";
   }
 
 .title{
