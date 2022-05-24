@@ -13,11 +13,6 @@ body {
   a:hover {
     text-decoration: underline;
   }
-  .brief {
-    font-size: 1rem;
-    font-weight: 300;
-    font-family: "Trebuchet MS";
-  }
   
   .box .flex-item {
     margin: 0 10px;
@@ -25,13 +20,22 @@ body {
     color: #ffffff;
   }
   
-  .myimage {
+  .row {
       display: inline-block;
       white-space:nowrap;
       text-align: center;
+      border-style: solid 1;
+  }
+  .w-50 {
+    min-width: 50%;
+    max-width: 50%;
+  }
+  .icon {
+    width: "200px";
+    height: "200px";
   }
 
-span{
+.title{
     color:maroon;
 }
 
